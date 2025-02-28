@@ -3,29 +3,24 @@
 }
 
 .carousel-image-1{
-    background-image: url('1.png');
+    background-image: url('image/1.png');
     background-size: cover;
 }
 
 .carousel-image-2{
-    background-image: url('2.png');
+    background-image: url('image/2.png');
     background-size: cover;
 }
 
 .carousel-image-3{
-    background-image: url('3.png');
-    background-size: cover;
-}
-
-.carousel-image-4{
-    background-image: url('4.png');
+    background-image: url('image/3.png');
     background-size: cover;
 }
 
 #about{
     min-height: 200px;
     position: relative;
-    background-image: url("5.png");
+    background-image: url("image/4.png");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
